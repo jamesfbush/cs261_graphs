@@ -1,5 +1,5 @@
 # graphs
-Python-based implementation of directed and undirected graphs for Data Structures CS216 (SP '21) at Oregon State University. 
+Python-based implementation of directed and undirected graphs for Data Structures CS261 (SP '21) at Oregon State University. 
 
 ## Directed Graphs - d_graph.py
 Supports creation of a directed graph supporting these functions: 
